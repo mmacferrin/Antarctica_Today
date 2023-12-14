@@ -1,4 +1,5 @@
-Note: This code-base is no longer being maintained in this repository by Dr. Mike MacFerrin. It is being maintained and further developed at the National Snow & Ice Data Center (NSIDC) at their Antarctica Today repository: https://github.com/nsidc/Antarctica_Today/
+# Note:
+This code-base is no longer being maintained in this repository by Dr. Mike MacFerrin. It is being maintained and further developed at the National Snow & Ice Data Center (NSIDC) at their Antarctica Today repository: https://github.com/nsidc/Antarctica_Today/
 This code contained here has been deprecated.
 
 # Antarctica_Today
